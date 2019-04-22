@@ -1,6 +1,8 @@
 The models are trained on data from the Switchboard Dialogue Act Corpus. 
 http://compprag.christopherpotts.net/swda.html
 
+Must download NLTK in order to run the pos tag parser. 
+
 They are named according to the feature set within them. For example, the LIWC jupyter notebook file contains a classifier that uses only LIWC features. The combined_feats+LIWC has all three unique feature set models with LIWC features concatenated. 
 
 The notebooks classify the data set if run in the order presented. 
