@@ -1,0 +1,11 @@
+#!/bin/bash
+for filename in ~/Desktop/SLP/hw4_az2498/speech_files/*;
+do
+	#SMILExtract -C config/IS09_emotion.conf -I $filename -csvoutput test_features2.csv	
+	wav=${filename##*/}
+	csv=${wav%.*}
+        end='.csv'
+	beg='features/'
+	file=$beg$csv$end
+	SMILExtract -C ~/Desktop/SLP/opensmile-2.3.0/config/IS09_emotion.conf -I $filename -csvoutput $file
+done

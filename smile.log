@@ -1,0 +1,23 @@
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in SMILExtract : openSMILE starting!
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in SMILExtract : config file is: /Users/anazeneli/Desktop/SLP/opensmile-2.3.0/config/IS09_emotion.conf
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in cComponentManager : successfully registered 91 component types.
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in instance 'lldsink' : No filename given, disabling this sink component.
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in instance 'lldhtksink' : No filename given, disabling this sink component.
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in instance 'lldarffsink' : No filename given, disabling this sink component.
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in instance 'arffsink' : No filename given, disabling this sink component.
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in instance 'htksink' : No filename given, disabling this sink component.
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in cComponentManager : successfully finished createInstances
+                                 (25 component instances were finalised, 1 data memories were finalised)
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in cComponentManager : starting single thread processing loop
+[ 30.04.2019 - 15:15:08 ]
+    (MSG) [2] in cComponentManager : Processing finished! System ran for 177 ticks.
